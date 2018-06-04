@@ -150,3 +150,12 @@ img {vertical-align: middle;}
 .img{
   text-align: center;
 }
+.red{
+  background-color: skyblue;
+}
+.yellow{
+  background-color: navy;
+}
+.blue{
+  background-color: green;
+}
