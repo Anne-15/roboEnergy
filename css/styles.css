@@ -152,10 +152,38 @@ img {vertical-align: middle;}
 }
 .red{
   background-color: skyblue;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  transition: 0.3s;
+
+}
+.red:hover {
+  background-color: navy;
+  color: white;
 }
 .yellow{
   background-color: navy;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  transition: 0.3s;
+}
+.yellow:hover{
+  background-color: purple;
+  color: white;
 }
 .blue{
   background-color: green;
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  transition: 0.3s;
+}
+.blue:hover{
+  background-color: pink;
+  color: white;
 }
